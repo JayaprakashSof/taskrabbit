@@ -1,0 +1,40 @@
+.main{
+  padding: 0px;
+  margin: 0px;
+}
+.img-bg{
+  width: 100%;
+}
+
+.heater-h1{
+   
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-shadow: 5px 4px 7px black;
+    position: absolute;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+@media only screen and (min-width: 318px) and (max-width:480px){
+  .img-bg{
+    width: 100%;
+    display: none;
+  }
+  .container{
+    width: 700px;
+    height: 700px;
+    margin-top: 0px !important;
+  }
+  .heater-h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-shadow: 5px 4px 7px black;
+    color: aliceblue;
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+  }
+}

@@ -1,0 +1,187 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* Header Section Starts----------------------------------------------------------------------------*/
+.navbar-brand{
+    font-size: 45px;
+    margin-left: 150px;
+    color: black !important;
+    font-weight: 500;
+}
+.navbar-nav{
+    padding-left: 390px;
+    font-size: 20px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.nav-link{
+    color: black !important;
+    font-weight: 500;
+
+}
+.form-inline{
+    margin-left: 40px;
+}
+.btn-outline-success{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* body section starts----------------------------------------------------------------------- */
+.mg-hero-title{
+    position: relative;
+    bottom: 230px;
+    margin-left: 420px;
+    font-weight: 900;
+    color: white;
+}
+
+.img-fluid1{
+    width: 100%;
+    height: 400px;
+}
+.head{
+    margin-left: 560px;
+    margin-top: 30px;
+}
+
+ul li {
+    list-style-type: none;
+}
+a, .link {
+    color: #0d7a5f;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.col-sm {
+    border: 1px solid #b1b9c3;
+    border-radius: 4px;
+    padding: 0.5rem;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    overflow: hidden;
+    padding-left: 12px;
+}
+
+.footer{
+    background-color: #67727e;
+    height: 100px;
+}
+.footericon{
+    display: flex;
+    color: white;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+.icon{
+    font-size: 20px;
+    background-color: #485664;
+    color: white;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-top: 40px;
+    margin-left: -360px;
+}
+.icon:hover{
+    background-color: #0ea2bd;
+}  
+.img-fluid8{
+    margin-left: 1110px;
+    margin-top: -80px;
+
+}  
+.img-fluid9{
+    height: 50px;
+    width: 130px;
+    margin-left: 970px;
+    margin-top: -127px;
+
+}
+/* Media Query----------------------------------------------------------------------------------- */
+@media only screen and (min-width: 320px) and (max-width:480px){
+   
+        .navbar {
+            width: 1100px;
+        }
+    
+.img-fluid1 {
+    width: 1100px;
+}
+.navbar-brand {
+    font-size: 50px;
+    color: black !important;
+    font-weight: 500;
+    position: relative;
+    right: 100px
+}
+.mg-hero-title{
+    position: relative;
+    font-size: 30px;
+    width: 400px;
+    right: 70px;
+}
+.head{
+
+}
+.footer{
+    width: 700px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    border-radius: 30px;
+    
+}
+
+.img-fluid8{
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+.img-fluid9{
+    margin-top: 10px;
+    margin-left: 0px;
+    position: relative;
+    left: 360px;
+    bottom: 55px;
+
+}
+.footericon{
+    margin-left: 0px;
+}
+.footer-head {
+    font-size: 30px;
+    padding-left: 20px;
+}
+.icon{
+    margin-top: 60px;
+    position: relative;
+    left: 30px;
+    text-align: center;
+}
+.services-container{
+    margin-left: 105px;
+    width: 900px;
+    text-align: center;
+}   
+
+
+.u-align--center{
+    width: 600px;
+    font-size: 40px;
+    position: relative;
+    right: 150px;
+}
+
+}

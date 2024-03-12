@@ -1,0 +1,586 @@
+
+.main{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.navbar-brand{
+    font-size: 50px;
+    color: black !important;
+    font-weight: 700;
+    margin-left: 100px;
+}
+.navbar-nav{
+    padding-left: 390px;
+    font-size: 20px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.nav-link{
+    color: black !important;
+    font-weight: 500;
+
+}
+.form-inline{
+    margin-left: 40px;
+}
+.btn-outline-success{
+    font-size: 20px;
+    font-weight: 500;
+}
+/* Header Section Ends */
+
+/* Body Section Starts*/
+.img-fluid1{
+    margin-left: 170px;
+    width: 90px;
+    margin-top: -15px;
+}
+.img-fluid2{
+    margin-left: 900px;
+    margin-top: -90px;
+}
+.img-fluid3{
+    margin-top: -210px;
+}
+.MuiStack-root{
+    margin-left: -20px;
+    margin-top: -410px;
+    font-family: Helvetica, sans-serif;
+    color: #2B4C32;
+    font-weight: 800;
+    line-height: 140%;
+    letter-spacing: normal;
+    text-align: center;
+}
+.MuiTypography-root{
+    font-size: 55px;
+    font-weight: bold;
+}
+.d-flex{
+    width: 660px;
+    margin-left: 380px;
+    margin-top: 50px;
+    height: 40px;
+    font-family: sans-serif;
+}
+.tasker-link{
+    text-decoration: none;
+    color: green;
+    font-weight: bolder;
+}
+.form-control{
+    height: 60px;
+    border-radius: 30px;
+    border-color: #545756;
+
+}
+.btn-outline-success2{
+    cursor: pointer;
+    border-radius: 0 1000px 1000px 0;
+    border-color: black;
+    height: 60px;
+    width: 70px;
+    position: relative;
+    left: -65px;
+    cursor: pointer;
+    border-radius: 0 1000px 1000px 0;
+    border-color: black;
+    height: 60px;
+    width: 70px;
+    position: relative;
+    left: -65px;
+    background-color: #0D7A5F;
+    color: white;
+}
+.text-center{
+    margin-top: 110px; 
+}
+.fa-solid{
+    font-size: 25px;
+}
+.text-center1{
+    padding-left: 70px;
+    margin-top: 40px;
+}
+.form-control1{
+    border-radius: 20px;
+    height: 40px;
+    text-align: center;
+    width: 160px;
+    border-width: thin;
+    cursor: pointer;
+}
+
+.container-assembly{
+    background-color: rgba(186, 231, 255, 0.5);
+    height: 490px;
+    margin-top: 50px;
+}
+
+.Assembly-img-top{
+    height: 420px;
+    width: 980px;
+    margin-left: 110px;
+    margin-top: 40px;
+}
+.Assembly-body{
+    background-color: white;
+    height: 310px;
+    width: 290px;
+    margin-top: -360px;
+    position: relative;
+    z-index: auto;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.Assembly-head{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.Assembly-text{
+    margin-left: 30px;
+    margin-top: -30px;
+}
+.Assembly-body.fa-solid{
+    font-size: 20px;
+}
+.Assembly-content{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.Assembly-task{
+    background: linear-gradient(#FFF, 25%, #ECF7EF);
+    height: 188px;
+    margin-top: 90px;
+}
+
+.Assembly-works{
+    margin-top: 60px;
+}
+.Assemble-work{
+    font-size: 20px;
+}
+.task-done{
+    font-size: 25px;
+    font-family: var(--next-font-inter, "Inter"), Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 132%;
+    letter-spacing: -0.005em;
+    color: #0D7A5F;
+}
+.Assembly-logo{
+    height: 90px;
+}
+.img-fluid4{
+    
+    display: none;
+}
+
+.project-title{
+    margin-left: 200px;
+    margin-bottom: 10px;
+    font-family: Helvetica, sans-serif;
+    color: #2B4C32;
+    font-weight: bold;
+}
+
+.projects{
+    margin-top: 50px 
+}
+
+.project1{
+    
+    background: #F5F7F6;
+    border-radius: 16px;
+    box-shadow: 0px 0px 4px 0px rgba(7, 7, 7, 0.10), 0px 0px 8px 0px rgba(4, 46, 41, 0.14);
+    cursor: pointer;
+    height: 310px;
+    width: 330px;
+}
+
+.project-text{
+    text-align: center;
+    font-family: var(--next-font-inter, "Inter"), Helvetica, sans-serif;
+
+}
+.project-img-top{
+    width: 330px;
+    height: 220px;
+}
+.project-name{
+    font-size: 20px;
+    text-align: center;
+    font-family: var(--next-font-inter, "Inter"), Helvetica, sans-serif;
+    padding-top: 20px;
+
+}
+.img-fluid5{
+    margin-top: -80px;
+}
+
+.happy-customer{
+    margin-left: 310px;
+    margin-top: -210px;
+    font-family: Helvetica, sans-serif;
+    color: #2B4C32;
+    font-weight: bold;
+
+}
+.customers{
+    font-family: Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-left: 320px;
+}
+.cus-name{
+    font-size: 25px;
+}
+
+.cus-activities{
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+    color: #0D7A5F;
+}
+.cus-img{
+    margin-left: 370px;
+    margin-top: 30px;
+}
+.satisfaction-head{
+    margin-left: 250px;
+    padding-top: 30px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+.sat-head{
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+    color: #2B4C32;
+
+
+}
+.sat-para{
+    font-family: Helvetica, sans-serif;
+    padding-top: 10px;
+
+}
+.sat-img{
+    margin-top: 10px;
+}
+.sat-row{
+    margin-top: 50px;
+    margin-left: 320px;
+}
+
+.working{
+    background-color:blanchedalmond;
+    height: 490px;
+    margin-top: -340px;
+}
+.work-img-top{
+    height: 420px;
+    width: 930px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+.Working-body{
+    background-color: white;
+    height: 310px;
+    width: 290px;
+    margin-top: -360px;
+    position: relative;
+    z-index: auto;
+    border-radius: 20px;
+    margin-left: 140px;
+
+}
+.Working-head{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.Working-text{
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.Working-content{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.img-fluid6{
+    display: none;
+}
+
+
+.helping{
+    font-family: Helvetica, sans-serif;
+    color: #2B4C32;
+    font-weight: bold;
+    margin-left: 70px;
+    margin-top: 50px;
+
+}
+.img-fluid7{
+    
+    display: none;
+}
+
+.footer{
+    background-color: #67727e;
+    height: 100px;
+}
+.footericon{
+    display: flex;
+    color: white;
+    margin-left: 40px;
+    padding-top: 30px;
+}
+.icon-on-all-brands{
+    font-size: 20px;
+    background-color: #485664;
+    color: white;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-top: 35px;
+    margin-left: 10px;
+    padding-right: 20px;
+    position: relative;
+    right: 300px;
+    bottom: 8px;
+}
+.icon:hover{
+    background-color: #0ea2bd;
+}  
+.img-apple-icon{
+    margin-left: 1110px;
+    margin-top: -80px;
+
+}  
+.img-google-play-icon{
+    height: 50px;
+    width: 130px;
+    margin-left: 978px;
+    margin-top: -125px;
+
+}
+
+@media only screen and (min-width: 318px) and (max-width:480px){
+    .bg-body-tertiary {
+        --bs-bg-opacity: 1;
+        background-color: rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important;
+        width: 380px;
+        border-radius: 30px;
+        margin-left: 5px;
+    }
+    .navbar-brand {
+        font-size: 30px;
+        color: black !important;
+        font-weight: 500;
+        margin-left: 100px;
+        position: absolute;
+    }
+    .img-fluid2 {
+        display: none;
+    }
+    .img-fluid3 {
+        display: none;
+    }
+    .MuiStack-root {
+        font-family: Helvetica, sans-serif;
+        color: #2B4C32;
+        font-weight: 800;
+        line-height: 140%;
+        letter-spacing: normal;
+        margin-top: 30px;
+        width: 400px;
+    margin-left: 3px;
+        
+    }
+    .MuiTypography-root {
+        font-size: 35px;
+        font-weight: bold;
+    }
+    .img-fluid1 {
+        height: 80px;
+        margin-left: 10px;
+    }
+    .d-flex {
+        width: 400px;
+        margin-top: 50px;
+        height: 40px;
+        font-family: sans-serif;
+        margin-left: 30px;
+    }
+    .text-center {
+        text-align: center !important;
+        margin-left: 30px;
+    }
+    .text-center2 {
+        padding-left: 70px;
+        margin-top: 40px;
+        width: 100px;
+    }
+    .Assembly-body {
+        height: 310px;
+    width: 300px;
+    position: relative;
+    z-index: auto;
+    margin-left: 30px;
+    margin-top: -220px;
+    }
+    .Assembly-img-top {
+        position: relative;
+    top: 300px;
+    margin-left: 20px;
+    border-radius: 20px;
+    height: 200px;
+    width: 350px;
+    }
+    .container-assembly {
+    }
+    .img-fluid4 {
+        display: none;
+    }
+    .project-section{
+        position: relative;
+        top: 420px;
+    }
+    .Assembly-task {
+        background: linear-gradient(#FFF, 25%, #ECF7EF);
+        width: 370px;
+        margin-left: -14px;
+        margin-top: 220px;
+    }
+    .project-title {
+        margin-bottom: 10px;
+        font-family: Helvetica, sans-serif;
+        color: #2B4C32;
+        font-weight: bold;
+        font-size: 30px;
+        margin-left: 10px;
+    }
+    .projects {
+        margin-top: 50px;
+        margin-left: 10px;
+    }
+    .img-fluid5 {
+        margin-top: -80px;
+        display: none;
+    }
+    .happy-customer {
+        margin-top: -210px;
+        font-family: Helvetica, sans-serif;
+        color: #2B4C32;
+        font-weight: bold;
+        width: 400px;
+    }
+    .img-fluid6 {
+        display: none;
+    }
+    .customer{
+        position: relative;
+        top: 670px;
+        margin-left: -300px;
+        width: 300px;
+    }
+    .img-fluid7 {
+        margin-top: -80px;
+        display: none;
+    }
+    .cus-img {
+        margin-top: 30px;
+        height: 50px;
+        margin-left: 320px;
+    }
+    .satisfaction{
+        position: relative;
+        width: 400px;
+    }
+    .satisfaction-head {
+        margin-left: 320px;
+        padding-top: 60px;
+        font-family: Helvetica, sans-serif;
+        font-weight: bold;
+        width: 400px;
+    }
+    .working {
+        height: 490px;
+        position: relative;
+        top: 1000px;
+    }
+    .work-img-top {
+        border-radius: 10px;
+    margin-left: 20px;
+    height: 200px;
+    width: 340px;
+    }
+    .Working-body {
+        background-color: white;
+        height: 310px;
+        width: 290px;
+        position: relative;
+        z-index: auto;
+        border-radius: 20px;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+    .helping {
+    font-family: Helvetica, sans-serif;
+    color: #2B4C32;
+    font-weight: bold;
+    position: relative;
+    margin-top: 1100px;
+    text-align: center;
+    }
+    .text-center1 {
+        margin-top: 40px;
+        margin-left: -64px;
+        width: 500px;
+    }
+    .img-apple-icon {
+    height: 100px;
+    width: 88px;
+    margin-left: 199px;
+    }
+    .img-google-play-icon {
+        height: 100px;
+    width: 89px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 40px;
+    left: 100px;
+    }
+    .icon-on-all-brands {
+        font-size: 20px;
+        background-color: #485664;
+        color: white;
+        height: 30px;
+        width: 30px;
+        text-align: center;
+        border-radius: 5px;
+        display: inline-block;
+        margin-left: 200px;
+    margin-top: 110px;
+    }
+    .footericon {
+        text-align: center;
+    }
+    .footer {
+        background-color: #67727e;
+        height: 200px;
+        position: relative;
+        top: 50px;
+        left: 35px;
+        border-radius: 10px;
+    }
+}
+
+
+
+
+

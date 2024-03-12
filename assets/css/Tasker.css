@@ -1,0 +1,404 @@
+.tasker-main{
+    padding: 0px;
+    margin: 0px;
+    background-color:#FFFFFF;
+}
+.tasker-heater-sec{
+    color: #022022;
+    border-bottom: 1px solid #dce0e6;
+    
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.tasker-heater-sec-h1{
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-weight: 600;
+    padding-top: 4px;
+    padding-left: 2px;
+}
+.tasker-order-sec-theme{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.tasker-order-sec-content{
+    margin-left: 700px;
+    margin-top: -470px;
+}
+.tasker-order-sec-content-h1{
+    font-family: sans-serif;
+
+}
+.tasker-order-sec-content-p{
+    font-family: sans-serif;
+}
+.tasker-order-sec-content-h1{
+   font-family: sans-serif;
+}
+.tasker-order-sec-content-p{
+    font-family: sans-serif;
+}
+.tasker-order-sec-content-selbox{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.tasker-order-sec-content-amount-h1{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.tasker-order-sec-content-amount-46{
+    font-family: sans-serif;
+
+    font-weight: 800;
+    font-size: 40px;
+}
+.tasker-order-sec-content-alink{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+.sign-in{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.tasker-order-sec-links{
+    text-align: center;
+    padding-top: 50px;
+}
+.tasker-order-sec-links-h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.tasker-order-sec-links-logo1{
+    height: 50px;
+    border-radius: 10px;
+    padding-bottom: 3px;
+}
+.tasker-order-sec-links-logo2{
+    height: 50px;
+    border-radius: 10px;
+}
+.tasker-order-sec-links-logo3{
+    height: 50px;
+    border-radius: 10px;
+}
+.tasker-flexible-sec-cont1{
+   font-family: sans-serif;
+   text-align: center;
+
+}
+.tasker-flexible-sec-cont1-h1{
+  font-family: sans-serif;
+}
+.tasker-flexible-sec-cont1-p{
+   font-family: sans-serif;
+   font-size: 20px;
+}
+.tasker-flexible-sec{
+    padding-top: 60px;
+}
+/* tasker service sectopr 1 -----------------------------------------------------*/
+
+.tasker-service-sec-1{
+    font-family: sans-serif;
+    padding-top: 70px;
+    margin-left: 120px;
+}
+.tasker-service1-box {
+  
+    display: inline-block;
+    margin: 20px;
+    padding-left: 4px;
+}
+.tasker-service1-box-img{
+    height: 50px;
+}
+.tasker-service1-box-h1{
+  font-family:sans-serif;
+}
+.tasker-service1-box-p{
+  font-family: sans-serif;
+}
+.tasker-whattask-sec{
+    position: relative;
+    padding-top: 50px;
+}
+.tasker-whattask-img{
+    width: 600px;
+    padding-left: 20px;
+}
+.tasker-whattask-sec-cont{
+    width: 400px;
+    position: absolute;
+    left: 700px;
+    bottom: 50px;
+}
+.tasker-whattask-sec-h1{
+   font-family: sans-serif;
+    font-weight: 600;
+}
+.tasker-whattask-sec-p{
+   font-family: sans-serif;
+}
+
+.tasker-getsta-ser-sec{
+  font-family: sans-serif;
+  position: relative;
+  top: 90px;
+
+}
+.tasker-getsta-ser-sec-box{
+    display: inline-block;
+    padding: 30px;
+    height: 250px;
+    width: 360px;
+    margin-left: 10px;
+}
+.tasker-getsta-ser-sec-box-img{
+    height: 50px;
+}
+.tasker-getsta-ser-sec-box-h1{
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.tasker-getsta-ser-sec-box-p{
+  font-family: sans-serif;
+}
+.tasker-getsta-ser-sec-header{
+    padding-left: 20px;
+    font-weight: 700; 
+}
+
+
+.taster-worker-per-sec{
+    position: relative;
+    top: 70px;
+}
+
+.taster-worker-per-sec-h1{
+    font-size: 30px;
+    position: absolute;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    top: 80px;
+    height: 400px;
+    padding-left: 20px;
+    width: 400px;
+}
+.taster-worker-per-sec-img{
+    position: absolute;
+    right: 0px;
+    width: 650px;
+    padding-right: 20px;
+}
+
+.tasker-read-sec{
+   
+   text-align: center;
+    position: relative;
+    top: 500px;
+}
+.tasker-read-sec-h1{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.tasker-read-sec-img{
+    border-radius: 10px;
+    height: 50px;
+    position: relative;
+    margin: 10px;
+}
+
+.tasker-news-brands-sec{
+   text-align: center;
+   
+   position: relative;
+   top: 700px;
+   background-color: aliceblue;
+   height: 250px;
+   
+}
+.tasker-news-brands-sec-box{
+    width: 400px;
+    display: inline-block;
+    padding-top: 40px;
+    margin: 30px;
+}
+.tasker-news-brands-img{
+    height: 30px;
+}
+.tasker-news-brands-p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-top: 20px;
+}
+
+/*footer end----------------------------------------------------------------------*/
+
+
+.tasker-footer-sec{
+    position: relative;
+    top: 700px;
+    background-color: gray;
+    
+}
+.footers{
+    display: inline-block;
+    margin: 30px;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.footer-ser-sec-h1{
+    font-size: 20px;
+    color: white;
+}
+.footer-span-h1{
+    color: darkgray;
+
+}
+.footer-logo{
+    height: 50px;
+    border-radius: 10px;
+}
+
+
+
+
+
+/*mediaquery----------------------------------------------------------------------*/
+
+
+
+
+@media only screen and (min-width: 318px) and (max-width:480px){
+    .tasker-order-sec-content {
+        margin-left: 230px;
+        width: 650px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .tasker-order-sec-theme {
+        display: none;
+    }
+    .tasker-order-sec-links {
+        text-align: center;
+        padding-top: 70px;
+        margin-left: 340px;
+        width: 400px;
+    }
+    .tasker-flexible-sec {
+        padding-top: 60px;
+        margin-left: 280px;
+    }
+    .tasker-flexible-sec-cont1 {
+        font-family: sans-serif;
+        text-align: center;
+        width: 500px;
+    }
+    .tasker-flexible-sec-cont1-h1 {
+        font-family: sans-serif;
+        font-size: 40px;
+    }
+    .tasker-service1-box-h1 {
+        font-family: sans-serif;
+        font-size: 40px;
+    }
+    .tasker-service1-box-p {
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+    .tasker-service-sec-1 {
+        font-family: sans-serif;
+        padding-top: 70px;
+        margin-left: 120px;
+        width: 800px;
+        text-align: center;
+    }
+    .tasker-getsta-ser-sec-box-h1 {
+        font-family: sans-serif;
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .tasker-getsta-ser-sec-box-p {
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+    .tasker-getsta-ser-sec {
+        font-family: sans-serif;
+        text-align: center;
+        width: 700px;
+        margin-left: 194px;
+    }
+    .tasker-getsta-ser-sec-box {
+        display: inline-block;
+        padding: 30px;
+        height: 250px;
+    }
+    .taster-worker-per-sec-h1 {
+        font-size: 35px;
+        letter-spacing: 2px;
+        font-family: sans-serif;
+        height: 400px;
+        width: 600px;
+        margin-left: 240px;
+        position: relative;
+        top: 100px;
+        text-align: center;
+    }
+    .taster-worker-per-sec-img {
+        width: 650px;
+        position: relative;
+        padding-right: 20px;
+        margin-top: 40px;
+        margin-left: 220px;
+    }
+    .tasker-read-sec {
+        text-align: center;
+        position: relative;
+        top: 120px;
+        width: 500px;
+        left: 280px;
+    }
+    .tasker-news-brands-sec {
+        text-align: center;
+        position: relative;
+        top: 240px;
+        margin-left: 100px;
+        background-color: white;
+    }
+    .tasker-news-brands-sec-box {
+        display: inline-block;
+        width: 800px;
+        margin: 40px;
+    }
+    .tasker-news-brands-p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding-top: 20px;
+        font-size: 20px;
+    }
+    .tasker-footer-sec {
+        position: relative;
+        top: 500px;
+        background-color: gray;
+        width: 1000px;
+        text-align: center;
+        margin-left: 45px;
+        
+        border-radius: 20px;
+    }
+    .footers {
+        margin: 30px;
+    }
+    .footer-ser-sec-h1 {
+        font-size: 24px;
+        color: white;
+        font-family: sans-serif;
+    }
+    .tasker-heater-sec-h1 {
+        font-size: 40px;
+    }
+    }
+
